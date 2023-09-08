@@ -1,0 +1,9 @@
+premium features--- added attributes to findall instead of finding all the element
+--> then we added sequelize function to calculate the price
+-->group is used to group al the user id that are same and calculate the total expenses 
+--- now we will use the joi method to take some attribute access from expense table to user table
+-- refresh token
+---crone job
+--file manipulators (fs module)
+--whitlist helmet
+
